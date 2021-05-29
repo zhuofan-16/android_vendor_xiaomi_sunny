@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),mojito)
+ifeq ($(TARGET_DEVICE),sunny)
 
 endif
